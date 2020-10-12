@@ -35,7 +35,7 @@ Begin_Date:2020-10-12		——zmy
 
 | Number | Difficulty | Problem  | Date       | Category           | Method-TimeComplexity | Remark                                    | TODO |
 | :----: | :--------: | -------- | ---------- | ------------------ | :-------------------: | ----------------------------------------- | ---- |
-|   38   |    Easy    | 外观数列 | 2020/10/12 | Regular expression |         O(n)          | ['note']('./Notes/Regular expression.py') | --   |
+|   38   |    Easy    | 外观数列 | 2020/10/12 | Regular expression |         O(n)          | ['note'](./Notes/Regular expression.py) | --   |
 |        |            |          |            |                    |                       |                                           |      |
 |        |            |          |            |                    |                       |                                           |      |
 
