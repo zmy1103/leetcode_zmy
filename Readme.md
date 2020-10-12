@@ -33,11 +33,11 @@ Begin_Date:2020-10-12		——zmy
 
 #### Practice record：
 
-| Number | Difficulty | Problem  | Date       | Category           | Method-TimeComplexity | Remark                                    | TODO |
-| :----: | :--------: | -------- | ---------- | ------------------ | :-------------------: | ----------------------------------------- | ---- |
-|   38   |    Easy    | 外观数列 | 2020/10/12 | Regular expression |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --   |
-|        |            |          |            |                    |                       |                                           |      |
-|        |            |          |            |                    |                       |                                           |      |
+| Number | Difficulty | Problem          | Date       | Category           | Method-TimeComplexity | Remark                                                       | TODO |
+| :----: | :--------: | ---------------- | ---------- | ------------------ | :-------------------: | ------------------------------------------------------------ | ---- |
+|   38   |    Easy    | Appearance array | 2020/10/12 | Regular expression |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --   |
+|        |            |                  |            |                    |                       |                                                              |      |
+|        |            |                  |            |                    |                       |                                                              |      |
 
 ## Notes：
 
