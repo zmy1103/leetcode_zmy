@@ -38,8 +38,8 @@ Begin_Date:2020-10-12		——zmy
 
 | Number | Difficulty | Problem                                                      | Date       | Category                                 | Method-TimeComplexity | Remark                                                       | TODO             |
 | :----: | :--------: | ------------------------------------------------------------ | ---------- | ---------------------------------------- | :-------------------: | ------------------------------------------------------------ | ---------------- |
-|   38   |    Easy    | Appearance array                                             | 2020/10/12 | Regular expression                       |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --               |
-|  215   |   Medium   | [Kth largest element in the array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 2020/10/13 | Array,Queue,Divide-and-Conquer Algorithm |         O(n)          | ['Partition && Queue'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | 联系二叉树和排序 |
+|   38   |    Easy    | Appearance array                                             | 2020/10/12 | Regular expression                       |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/38%20Appearance_Array.md) | --               |
+|  215   |   Medium   | [Kth largest element in the array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 2020/10/13 | Array,Queue,Divide-and-Conquer Algorithm |         O(n)          | ['Partition && Queue'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/215%20Partition%20%26%26%20Queue.md) | 联系二叉树和排序 |
 |        |            |                                                              |            |                                          |                       |                                                              |                  |
 
 ## Notes：
