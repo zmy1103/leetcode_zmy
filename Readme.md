@@ -2,6 +2,8 @@
 
 Begin_Date:2020-10-12		——zmy
 
+![53dcf8e6c74f83f761e26e275abc084](//tvax4.sinaimg.cn/large/005IQUPRly1gjnrx3r762j30j60arq3h.jpg)
+
 ## Practice：
 
 #### Labels：
@@ -20,6 +22,7 @@ Begin_Date:2020-10-12		——zmy
   - Basic exercises
     - Array
     - Queue
+    - Binary tree
   - Math question
   - ingenuity
 - Elementary Algorithm
@@ -38,7 +41,7 @@ Begin_Date:2020-10-12		——zmy
 
 | Number | Difficulty | Problem                                                      | Date       | Category                                 | Method-TimeComplexity | Remark                                                       | TODO             |
 | :----: | :--------: | ------------------------------------------------------------ | ---------- | ---------------------------------------- | :-------------------: | ------------------------------------------------------------ | ---------------- |
-|   38   |    Easy    | Appearance array                                             | 2020/10/12 | Regular expression                       |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --               |
+|   38   |    Easy    | ['Appearance array'](https://leetcode-cn.com/problems/count-and-say/) | 2020/10/12 | Regular expression                       |         O(n)          | ['regular-expression'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --               |
 |  215   |   Medium   | [Kth largest element in the array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 2020/10/13 | Array,Queue,Divide-and-Conquer Algorithm |         O(n)          | ['Partition && Queue'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | 联系二叉树和排序 |
 |        |            |                                                              |            |                                          |                       |                                                              |                  |
 
