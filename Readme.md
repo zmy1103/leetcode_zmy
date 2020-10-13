@@ -18,10 +18,13 @@ Begin_Date:2020-10-12		——zmy
 
 - Grammar training 
   - Basic exercises
+    - Array
+    - Queue
   - Math question
   - ingenuity
 - Elementary Algorithm
   - Dynamic programming
+  - Divide-and-Conquer Algorithm
 - Advanced algorithm
 - Others
   - Regular expression
@@ -33,11 +36,11 @@ Begin_Date:2020-10-12		——zmy
 
 #### Practice record：
 
-| Number | Difficulty | Problem          | Date       | Category           | Method-TimeComplexity | Remark                                                       | TODO |
-| :----: | :--------: | ---------------- | ---------- | ------------------ | :-------------------: | ------------------------------------------------------------ | ---- |
-|   38   |    Easy    | Appearance array | 2020/10/12 | Regular expression |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --   |
-|        |            |                  |            |                    |                       |                                                              |      |
-|        |            |                  |            |                    |                       |                                                              |      |
+| Number | Difficulty | Problem                                                      | Date       | Category                                 | Method-TimeComplexity | Remark                                                       | TODO             |
+| :----: | :--------: | ------------------------------------------------------------ | ---------- | ---------------------------------------- | :-------------------: | ------------------------------------------------------------ | ---------------- |
+|   38   |    Easy    | Appearance array                                             | 2020/10/12 | Regular expression                       |         O(n)          | ['note'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --               |
+|  215   |   Medium   | [Kth largest element in the array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 2020/10/13 | Array,Queue,Divide-and-Conquer Algorithm |         O(n)          | ['Partition && Queue'](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | 联系二叉树和排序 |
+|        |            |                                                              |            |                                          |                       |                                                              |                  |
 
 ## Notes：
 
