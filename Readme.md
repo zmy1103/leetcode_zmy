@@ -2,9 +2,7 @@
 
 Begin_Date:2020-10-12		——zmy
 
-![53dcf8e6c74f83f761e26e275abc084](//tvax4.sinaimg.cn/large/005IQUPRly1gjnrx3r762j30j60arq3h.jpg)
-
-<img src="//tva2.sinaimg.cn/large/005IQUPRly1gjns4ieeq2j30j60arq3h.jpg" alt="53dcf8e6c74f83f761e26e275abc084" width="690" data-width="690" data-height="387">
+![](https://tva1.sinaimg.cn/large/005IQUPRly1gjnsqp9xqij30j60arq3h.jpg)
 
 ## Practice：
 
