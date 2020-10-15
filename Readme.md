@@ -43,7 +43,9 @@ Begin_Date:2020-10-12		——zmy
 | :----: | :--------: | ------------------------------------------------------------ | ---------- | ---------------------------------------- | :-------------------: | ------------------------------------------------------------ | ---------------- |
 |   38   |    Easy    | [Appearance array](https://leetcode-cn.com/problems/count-and-say/) | 2020/10/12 | Regular expression                       |         O(n)          | [regular-expression](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | --               |
 |  215   |   Medium   | [Kth largest element in the array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | 2020/10/13 | Array,Queue,Divide-and-Conquer Algorithm |         O(n)          | [Partition && Queue](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/Regular%20expression.md#regular-expression) | 联系二叉树和排序 |
-|        |            |                                                              |            |                                          |                       |                                                              |                  |
+|        |            |                                                              | 2020/10/14 |                                          |                       |                                                              |                  |
+|        |            |                                                              | 2020/10/15 |                                          |                       |                                                              |                  |
+|        |            |                                                              | 2020/10/16 |                                          |                       |                                                              |                  |
 
 ## Notes：
 
