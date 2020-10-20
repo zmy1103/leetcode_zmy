@@ -1,4 +1,4 @@
-## Pyhon Common Function
+## Python Common Function
 
 ### enumerate() 函数
 
