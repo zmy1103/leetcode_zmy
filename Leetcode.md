@@ -48,6 +48,7 @@ Begin_Date:2020-10-12		——zmy
 | Number | Difficulty | Problem                                                      | ♥    | Date       | Category                                 | Method-TimeComplexity | Remark                                                       | TODO                           |
 | :----: | :--------: | ------------------------------------------------------------ | ---- | ---------- | ---------------------------------------- | :-------------------: | ------------------------------------------------------------ | ------------------------------ |
 |   17   |   Medium   | [Ceiling of a Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | √    | 2020/11/2  | Backtracking                             |       O(3m×4n)        |                                                              |                                |
+|   23   |    Hard    | [merge-k-sorted-lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | ⭐    | 2020/11/3  | Merge sort,Heap                          |                       |                                                              |                                |
 |   33   |   Medium   | [Search rotated sorted array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | ⭐    | 2020/11/2  | Binary search                            |        O(logn)        | [33Search rotated sorted array]()                            |                                |
 |   34   |   Medium   | [Find the first and last position of an element in a sorted array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | √    | 2020/11/1  | Binary search                            |       O(log2n)        |                                                              |                                |
 |   38   |    Easy    | [Appearance array](https://leetcode-cn.com/problems/count-and-say/) | ⭐    | 2020/10/12 | Regular expression                       |         O(n)          | [regular-expression](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/38%20Appearance_Array.md) | --                             |
@@ -57,6 +58,7 @@ Begin_Date:2020-10-12		——zmy
 |   78   |   Medium   | [Subsets](https://leetcode-cn.com/problems/subsets/)         | ⭐ws  | 2020/11/1  | DFS,Backtracking                         |      O(n * 2^n)       | [78 Subsets]()                                               | ggggreat                       |
 |   81   |   Medium   | [Search rotated sorted array Ⅱ](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/) | √    | 2020/11/2  | Binary search                            |        O(logn)        |                                                              | lj题目                         |
 |   90   |   Medium   | [Subsets Ⅱ](https://leetcode-cn.com/problems/subsets-ii/)    | √    | 2020/11/2  | DFS,Backtracking                         |      O(n * 2^n)       |                                                              |                                |
+|  102   |    Easy    | [binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | √    | 2020/11/4  | Tree traversal                           |         O(n)          |                                                              |                                |
 |  105   |   Medium   | [Construct a binary tree from preorder and middle order traversal sequence](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | √    | 2020/10/22 | Recursion,Binary tree                    |         O(n)          |                                                              |                                |
 |  106   |   Medium   | [Traverse the sequence from the middle order and the post order to construct a binary tree](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | √    | 2020/10/23 | Tree traversal                           |         O(n)          |                                                              |                                |
 |  111   |    Easy    | [.二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | √    | 2020/10/30 | BFS                                      |       BFS,Queue       |                                                              | 讲道理，效率好低               |
@@ -67,15 +69,20 @@ Begin_Date:2020-10-12		——zmy
 |  226   |    Easy    | [Flip binary tree]()                                         | ⭐    | 2020/10/15 | Recursion，Iteration，Binary tree        |         O(n)          | [226 Interation](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/226%20Iteration.md) | 队列                           |
 |  236   |   Medium   | [Nearest common ancestor of binary tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ⭐ws  | 2020/10/14 | Recursion,Binary tree                    |         O(n)          | [236 Recursion](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/236%20Recursion.md) | 给ws讲出来                     |
 |  239   |    Hard    | [Maximum sliding window](https://leetcode-cn.com/problems/sliding-window-maximum/) |      | 2020/10/25 | Heaps                                    |                       |                                                              |                                |
-|  295   |   Medium   | [Find the Median of a Number Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/) |      | 2020/10/25 | Two Heaps                                |                       |                                                              |                                |
+|  295   |    Hard    | [Find the Median of a Number Stream](https://leetcode-cn.com/problems/find-median-from-data-stream/) |      | 2020/10/25 | Two Heaps                                |                       |                                                              |                                |
 |  322   |   Medium   | [Change exchange](https://leetcode-cn.com/problems/coin-change/) | ⭐    | 2020/10/26 | DP                                       |         O(n)          | [322 Change exchange(DP)](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/322%20Change%20exchange(DP).md) | 喵喵喵？我的时间复杂度怎么回事 |
+|  347   |   Medium   | [top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | ⭐    | 2020/11/2  | Heaps                                    |       O(nlogk)        | [347 top-k-frequent-elements (Python Heap的实现)]()          | 终于学会堆了                   |
+|  378   |   Medium   | [kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) | √    | 2020/11/3  | Heap, MergeSort                          |       O(nlogk)        |                                                              | 写题解了                       |
+|  416   |   Medium   | [partition-equal-subset-sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/) | ⭐    | 2020/11/4  | DP                                       |                       |                                                              |                                |
 |  480   |    Hard    | [Median of sliding window](https://leetcode-cn.com/problems/sliding-window-median/) |      | 2020/10/25 | Two Heaps                                |                       |                                                              |                                |
 |  518   |   Medium   | [Change exchange Ⅱ](https://leetcode-cn.com/problems/coin-change-2/) | ⭐    | 2020/10/26 | DP                                       |        O（n）         | [518 Change exchange Ⅱ)]()                                   |                                |
 |  652   |   Medium   | [Find duplicate subtrees](https://leetcode-cn.com/problems/find-duplicate-subtrees/) | ⭐    | 2020/10/23 | Recursion,Binary tree                    |         O(n2)         | [652 Find duplicate subtrees ](https://github.com/zmy1103/leetcode_zmy/blob/master/Notes/652%20Find%20duplicate%20subtrees.md) | 效率可以优化                   |
 |  654   |    Easy    | [Largest binary tree](https://leetcode-cn.com/problems/maximum-binary-tree/) | √    | 2020/10/21 | Recursion,Binary tree                    |       *O*(*n*2)       |                                                              |                                |
+|  692   |   Medium   | [Top K high frequency words](https://leetcode-cn.com/problems/top-k-frequent-words/) | ⭐    | 2020/11/3  | Heap,Sort                                |       O(nlogn)        | [692  K high frequency words]()                              | 生日快乐                       |
 |  704   |    Easy    | [Binary search](https://leetcode-cn.com/problems/binary-search/) | ⭐    | 2020/11/1  | Binary search                            |       O(log*N*)       | [Binary search]()                                            |                                |
 |  752   |  So Hard   |                                                              |      |            |                                          |                       |                                                              |                                |
-|        |            |                                                              |      |            |                                          |                       |                                                              |                                |
+|  973   |   Medium   | [‘K’ Closest Points to the Origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/) | √    | 2020/11/3  | Heap                                     |       O(nlogn)        |                                                              | 我是个小天才                   |
+|  1636  |    Easy    | [Sort the array in ascending order by frequency](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/) | √    | 2020/11/3  | Heap,Sort                                |       O(nlogn)        |                                                              |                                |
 |        |            |                                                              |      |            |                                          |                       |                                                              |                                |
 |        |            |                                                              |      |            |                                          |                       |                                                              |                                |
 |        |            |                                                              |      |            |                                          |                       |                                                              |                                |
@@ -86,9 +93,18 @@ Begin_Date:2020-10-12		——zmy
 - common functions
   - python 
 - algorithm
+- [背包问题九讲](https://www.kancloud.cn/kancloud/pack/70124)
 
 ## Tips:
 
 - 全局变量连续跑会存在没有清空的问题，所以可以在使用之前调用一个构造函数来初始化
+- ![20190624173156.jpg](https://pic.leetcode-cn.com/cde64bf682850738153e6c76dd3f6fb32201ce3c73c23415451da1eead9eb7cb-20190624173156.jpg)
 
 ## Contests:
+
+| Contest   | Date     | Result |
+| --------- | -------- | ------ |
+| 2020/12/5 | PAT 甲级 |        |
+|           |          |        |
+|           |          |        |
+
