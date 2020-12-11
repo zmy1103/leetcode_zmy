@@ -39,7 +39,7 @@ lass Solution:
 一层一层访问刚好可以让同一层相邻的节点在队列中靠在一起，所以自然想到用队列实现层次遍历
 
 ```python
-import collection 
+import collections
 def connect(self, root:'Node') -> 'Node':
     if not root:
         return root
